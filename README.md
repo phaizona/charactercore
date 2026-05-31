@@ -1,5 +1,7 @@
 # 🧬 CharacterCore - Modern Character Profile Template
 
+🔗 **Live Preview:** [https://aliyigityilmaz.github.io/charactercore/](https://aliyigityilmaz.github.io/charactercore/)
+
 An ultra-modular, modern character profile template inspired by tabletop D&D character sheets and Toyhou.se aesthetics. Built using vanilla HTML, CSS, and JavaScript with a sleek cyber-urban dark theme. Perfect for roleplayers (RP), original character (OC) archives, or showcasing tabletop RPG campaign characters.
 
 ---
